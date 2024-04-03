@@ -1,0 +1,2 @@
+rootProject.name='Comandas'
+include ':app'

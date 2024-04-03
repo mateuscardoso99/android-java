@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="open_drawer_menu2">Abrir</string>
+    <string name="close_drawer_menu2">Fechar</string>
+</resources>
